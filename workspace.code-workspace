@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "2096_individual (1)\\2096_individual\\css"
+		},
+		{
+			"path": "2096_individual (1)\\2096_individual\\font-awesome-4.5.0"
+		},
+		{
+			"path": "2096_individual (1)\\2096_individual\\img"
+		},
+		{
+			"path": "2096_individual (1)\\2096_individual\\js"
+		},
+		{
+			"path": "2096_individual (1)\\2096_individual\\slick"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "css",
+		"liveServer.settings.port": 5501
+	}
+}
